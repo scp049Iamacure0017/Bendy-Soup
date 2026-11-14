@@ -1,1 +1,53 @@
+{
+  "users":[
+{
+  "id":1,
+  "name": "Gaster",
+  "photo": "https://i.pinimg.com/736x/43/d7/f8/43d7f8fd7dc12cdb04d37792f071daff.jpg",
+  "balance": 6700,
+  "age": 67,
+  "address": "st. Evakoroleva67",
+  "email": "evakoroleva6767@gmail.com",
+  "password": "WDgastritINdeltarune"
+  
+}  
 
+{
+  "id":2,
+  "name": "Dohodyaga",
+  "photo": "https://i.pinimg.com/736x/43/d7/f8/43d7f8fd7dc12cdb04d37792f071daff.jpg",
+  "balance": 0,
+  "age": 607,
+  "address": "palatka",
+  "email": "andrey6767@gmail.com",
+  "password": "WDgastritINdeltarune"
+  
+}  
+    
+  ]
+
+   "products":[
+{
+  "id":6,
+  "name": "Soup with Bendy",
+  "photo": "https://i.pinimg.com/1200x/08/34/14/08341408750609ccd74266ce82c63b03.jpg",
+  "price": 10000000000000000000000000000000000000000000000000000000000000000000000000000000,
+  "discription": "Super-mega-duper-ultra Bendy soup, food of the gods—Henry included as a bonus!"
+  
+}  
+
+
+{
+  "id":7,
+  "name": "Sandwich without soup",
+  "photo": "https://i.pinimg.com/736x/76/0f/17/760f1715acdfe932b3f894c522a97635.jpg",
+  "price": 100000000000000000000000000006767676767670000000000000,
+  "discription": "Super-mega Sandwich without soup"
+  
+}  
+
+
+     
+]
+  
+}
